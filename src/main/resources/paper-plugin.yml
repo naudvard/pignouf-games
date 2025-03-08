@@ -1,6 +1,6 @@
-name: pignouf-games
+name: pignouf-utils
 version: '1.0-SNAPSHOT'
-main: fr.nathanaudvard.pignoufgames.PignoufGames
+main: fr.nathanaudvard.pignoufutils.PignoufUtils
 api-version: '1.21.1'
-prefix: Pignouf Games
+prefix: Pignouf Utils
 authors: [ Nathan AUDVARD ]
